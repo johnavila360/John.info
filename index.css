@@ -64,5 +64,9 @@ h1:hover{
 footer{
     text-align: center;
 }
-
+summary{
+    text-align:center;
+    font-size:150%;
+    font-family:times;
+}
 
