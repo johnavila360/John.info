@@ -1,0 +1,68 @@
+li{
+    font-family:times;
+}
+h2{
+    font-family: cursive;   
+    color: black;
+    text-align: center;
+    margin: 10px;
+    border-radius: 50px;
+    background-color:#fff4d5 ;
+}
+h1{
+    font-size: 250%;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+}
+img{
+    width:150px;
+    height:150px;
+    border-radius: 200%;
+    object-fit: ;
+    border: 10px brown solid; 
+}
+p{
+    font-family: times;
+    color: brown;
+}       
+body{
+    background: url('jo.jpg');
+    margin:50px;
+    align-items:center ;
+    background-size:cover;
+    border:5px solid brown;
+    border-radius: 20px;
+    
+}
+li{
+    font-style: italic;
+    color: brown;
+}
+
+header{
+  place-items:center;
+}
+h2::first-letter{
+    font-size:200% ;
+}
+h2:hover{
+    color:blue;
+}
+a:hover{
+    color: red;
+}
+p:hover{
+    color: yellow;
+}
+li:hover{
+    color: yellow;
+}
+h1:hover{
+    color: red;
+}
+footer{
+    text-align: center;
+}
+
+
